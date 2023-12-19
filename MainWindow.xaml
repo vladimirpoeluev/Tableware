@@ -1,0 +1,73 @@
+﻿<Window x:Class="Tableware.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tableware"
+        mc:Ignorable="d"
+        Title="Посуда"
+        MinHeight="350"
+        Height="350"
+        MinWidth="500"
+        Width="500"
+        MaxHeight="450"
+        Icon="/logo.png"
+        MaxWidth="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10.714" />
+            <ColumnDefinition Width="89.286" />
+            <ColumnDefinition Width="*" />
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+
+        <Grid Background="#FF76E383"
+              Grid.RowSpan="2"
+              Width="100"
+              Grid.ColumnSpan="2">
+            <StackPanel>
+                <Label Content="Меню"
+                       FontSize="16"
+                       FontFamily="Comic Sans MS"
+                       Background="#FF76E383"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Top"
+                       FontWeight="Bold" />
+                <Rectangle Height="5"
+                           Fill="White"
+                           VerticalAlignment="Center"
+                           Margin="10,0,10,0" />
+
+                <ListBox x:Name="menu"
+                         FontFamily="Comic Sans MS"
+                         FontSize="14"
+                         Background="#FF76E383"
+                         BorderBrush="#FF76E383" 
+                         
+                         SelectionChanged="menu_SelectionChanged" />
+
+            </StackPanel>
+            
+
+        </Grid>
+        <Button Grid.Row="2" 
+                Height="20"
+                Grid.ColumnSpan="2"
+                Click="Button_Click"
+                Content="Выход"
+                Style="{StaticResource cdButton}"
+                FontFamily="Comic Sans MS"
+                FontSize="14" />
+        <Frame Grid.Column="2"
+               Grid.RowSpan="3"
+               Source="Pages/Entrance.xaml"
+               x:Name="frame"
+               NavigationUIVisibility="Hidden"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,135 @@
+﻿<Page x:Class="Tableware.Description"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:Tableware"
+      mc:Ignorable="d"
+      d:DesignHeight="450"
+      d:DesignWidth="800"
+      Title="Description">
+
+    <Grid Loaded="Grid_Loaded">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="auto" />
+        </Grid.ColumnDefinitions>
+
+        <Button Content="Добавить в заказ"
+                Margin="5"
+                Background="#FF498C51"
+                Height="20"
+                VerticalAlignment="Bottom" Click="Button_Click_2" />
+        <Image Grid.Column="1"
+               Height="100"
+               Source="/logo.png"/>
+        <Border Grid.ColumnSpan="2"
+                Grid.Row="1"
+                BorderBrush="Black"
+                BorderThickness="2"
+                Margin="10"> 
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto" />
+                    <ColumnDefinition />
+                    <ColumnDefinition Width="auto" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Border BorderBrush="Black"
+                        BorderThickness="2"
+                        Grid.RowSpan="1"
+                        Grid.Column="0">
+                    <Grid  Height="100"
+                          Width="100">
+                        <Image x:Name="image" 
+                            Source="/Resurce/picture.png"/>
+                    </Grid>
+
+                </Border>
+
+                <Border BorderBrush="Black"
+                        BorderThickness="2"
+                        Grid.ColumnSpan="1"
+                        Grid.Column="1"
+                        Grid.RowSpan="1">
+                    <Grid>
+                        <Label x:Name="description1" 
+                            FontFamily="Comic Sans MS">
+                            <TextBlock>
+                               <Bold>Наименование</Bold>
+                                Производитель<LineBreak />
+                                Произвдитель:<LineBreak />
+                                Цена:<LineBreak />
+                                Доп.Информация:
+
+                            </TextBlock>
+                        </Label>
+
+                    </Grid>
+
+                </Border>
+
+                <Border BorderBrush="Black"
+                        BorderThickness="2"
+                        Grid.Column="2"
+                        Grid.RowSpan="3"
+                        Grid.ColumnSpan="2">
+                    <Grid>
+                        <Label FontFamily="Comic Sans MS"
+                               FontSize="12"
+                               Content="Наличие"
+                               VerticalAlignment="Center">
+                            <Label.LayoutTransform>
+                                <TransformGroup>
+                                    <RotateTransform Angle="270" />
+                                    <ScaleTransform ScaleX="-1"
+                                                    ScaleY="-1" />
+                                </TransformGroup>
+                            </Label.LayoutTransform>
+                        </Label>
+
+                    </Grid>
+
+                </Border>
+                <Border Grid.Row="1"
+                        Grid.ColumnSpan="2">
+                    <Grid>
+                        <Label x:Name="description2" FontFamily="Comic Sans MS">
+                            <TextBlock >
+                                Описание
+                            </TextBlock>
+                        </Label>
+                    </Grid>
+                </Border>
+
+            </Grid>
+        </Border>
+        <TextBox x:Name="tbxNumber" 
+            VerticalAlignment="Bottom" 
+                 Margin="10,10,100,30" Width="100"
+                 HorizontalAlignment="Left"
+                 Height="40" FontSize="24"
+                 Text="0" TextChanged="TextBox_TextChanged"
+                 />
+        <Button HorizontalAlignment="Left"
+                VerticalAlignment="Bottom"
+                Height="20" Width="50" Margin="120,0,100,50"
+                Content="+" FontSize="14" Click="Button_Click"/>
+        <Button HorizontalAlignment="Left"
+                VerticalAlignment="Bottom"
+                Height="20" Width="50" Margin="120,0,100,30"
+                Content="-" FontSize="14" Click="Button_Click_1"/>
+        <Button x:Name="buttAddProduct" Height="20"
+                Width="150"
+                HorizontalAlignment="Right"
+                Content="Добавить продукт"
+                Visibility="Hidden"/>
+    </Grid>
+</Page>

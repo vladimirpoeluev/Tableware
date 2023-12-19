@@ -1,0 +1,158 @@
+C:\Users\student\Desktop\Tableware\Tableware\bin\Debug\Tableware.exe.config
+C:\Users\student\Desktop\Tableware\Tableware\bin\Debug\Tableware.exe
+C:\Users\student\Desktop\Tableware\Tableware\bin\Debug\Tableware.pdb
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Tableware.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Tableware_MarkupCompile.cache
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Tableware_MarkupCompile.lref
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Tableware.g.resources
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Tableware.Properties.Resources.resources
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Tableware.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Tableware.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Tableware.exe
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Tableware.pdb
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Pages\Entrance.g.cs
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Pages\Entrance.baml
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Pages\MainPage.g.cs
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Pages\MainPage.baml
+C:\Users\student\Desktop\Tableware\Tableware\bin\Debug\Resurce\logo.png
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Pages\ProductСatalogPage1.g.cs
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Pages\ProductСatalogPage1.baml
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Pages\Orders.g.cs
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Pages\Orders.baml
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Pages\Description.g.cs
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Pages\Description.baml
+C:\Users\student\Desktop\Tableware\Tableware\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\student\Desktop\Tableware\Tableware\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Tableware.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Tableware.csproj.CopyComplete
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Pages\Registration.g.cs
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\Pages\Registration.baml
+C:\Users\student\Desktop\Tableware\Tableware\obj\Debug\App.baml
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Tableware.exe.config
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Tableware.exe
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Tableware.pdb
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Description.g.cs
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Orders.g.cs
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Entrance.g.cs
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\MainPage.g.cs
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\ProductСatalogPage1.g.cs
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Registration.g.cs
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware_MarkupCompile.cache
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware_MarkupCompile.lref
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\App.baml
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Description.baml
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Orders.baml
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Entrance.baml
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\MainPage.baml
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\ProductСatalogPage1.baml
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Registration.baml
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.g.resources
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.Properties.Resources.resources
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.csproj.CopyComplete
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.exe
+C:\Users\student\Desktop\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.pdb
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Tableware.exe.config
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Tableware.exe
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Tableware.pdb
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Description.g.cs
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Orders.g.cs
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Entrance.g.cs
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\MainPage.g.cs
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\ProductСatalogPage1.g.cs
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Registration.g.cs
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware_MarkupCompile.cache
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware_MarkupCompile.lref
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\App.baml
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Description.baml
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Orders.baml
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Entrance.baml
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\MainPage.baml
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\ProductСatalogPage1.baml
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Registration.baml
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.g.resources
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.Properties.Resources.resources
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.csproj.CopyComplete
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.exe
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.pdb
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\save\save.txt
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\D036H2.jpg
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\logo.png
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\D548T5.jpg
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\D644G3.jpg
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\F735F5.jpg
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\F835F5.jpg
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\F836E5.jpg
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\H482Y6.jpg
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\N835D4.jpg
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\N835F5.jpg
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\А112Т4.jpg
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\picture.png
+C:\Users\student\Desktop\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware_Content.g.cs
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\logo.png
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\picture.png
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\D036H2.jpg
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\D548T5.jpg
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\D644G3.jpg
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\F735F5.jpg
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\F835F5.jpg
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\F836E5.jpg
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\H482Y6.jpg
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\N835D4.jpg
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\N835F5.jpg
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\А112Т4.jpg
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Resurce\save\save.txt
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Tableware.exe.config
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Tableware.exe
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\Tableware.pdb
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Description.g.cs
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Orders.g.cs
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Entrance.g.cs
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\MainPage.g.cs
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\MainWindow.g.cs
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\ProductСatalogPage1.g.cs
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Registration.g.cs
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\App.g.cs
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware_Content.g.cs
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware_MarkupCompile.cache
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware_MarkupCompile.lref
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\App.baml
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Description.baml
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Orders.baml
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Entrance.baml
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\MainPage.baml
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\MainWindow.baml
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\ProductСatalogPage1.baml
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Pages\Registration.baml
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.g.resources
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.csproj.CopyComplete
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.exe
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Tableware.pdb
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Captcha.g.cs
+C:\Users\User\OneDrive\Рабочий стол\Учебная практика программа + бд\Учебная практика приложение с БД\Tableware\Tableware\obj\Debug\Captcha.baml
